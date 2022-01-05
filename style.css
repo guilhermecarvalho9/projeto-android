@@ -182,3 +182,7 @@
      background-color: rgb(6, 61, 31);
      padding: 1px;
  }
+
+ footer > p {
+     text-align: center;
+ }
