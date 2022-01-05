@@ -31,7 +31,7 @@
      background-color: var(--cor2);
      color: white;
      margin: 0px;
-     padding: 15px 5px 10px 5px;
+     padding: 15px 0px 10px 0px;
      min-height: 150px;
      background-image: linear-gradient(to bottom,  var(--cor2), var(--cor4));
  }
